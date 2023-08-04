@@ -1,2 +1,2 @@
-let nome = prompt("Qual seu nome?");
+let nome = prompt('Digite seu nome:');
 alert(nome);
